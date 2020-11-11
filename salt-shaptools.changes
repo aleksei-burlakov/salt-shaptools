@@ -1,4 +1,9 @@
 -------------------------------------------------------------------
+Mon Dec 14 11:28:30 UTC 2020 - Aleksei Burlakov <aburlakov@suse.com>
+
+- qdevice can be created when initializing a cluster
+  
+-------------------------------------------------------------------
 Thu Oct 15 07:14:20 UTC 2020 - Xabier Arbulu <xarbulu@suse.com>
 
 - Version 0.3.11
